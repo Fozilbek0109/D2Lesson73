@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/homeFragment"
+    android:title="Bosh sahifa"
+    android:icon="@android:drawable/checkbox_off_background"/>
+    <item android:id="@+id/katologFragment"
+        android:title="Katolog"
+        android:icon="@android:drawable/ic_search_category_default"/>
+    <item android:id="@+id/cardFragment"
+        android:title="Savat"
+        android:icon="@android:drawable/star_on"/>
+    <item android:id="@+id/favouriteFragment"
+        android:title="Istaklar"
+        android:icon="@android:drawable/star_on"/>
+    <item android:id="@+id/settingFragment"
+        android:title="Kabinet"
+        android:icon="@android:drawable/ic_menu_set_as"/>
+</menu>
